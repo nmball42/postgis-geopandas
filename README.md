@@ -1,6 +1,12 @@
 # Understanding PostGIS’s capabilities using GeoPandas
 
-Last updated: Dec 18th 2025
+Last updated: Sep 28th 2026
+
+<p align="center">
+  <img src="town.png" alt="Showcase Banner" width="50%">
+  <br>
+  <em>Example schematic data for PostGIS queries</em>
+</p>
 
 PostGIS generalizes a PostgreSQL database to include spatial data, adding an awareness of datatypes and the necessary functions to deal with data where a spatial component is integral to its meaning. Here, we use PostGIS and GeoPandas to show common functions and combinations using a simple set of points, lines, polygons and other datatypes to illustrate key concepts. This is complimentary to many existing tutorials that go straight to real data.
 
